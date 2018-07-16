@@ -1,0 +1,12 @@
+.idea
+
+# truffle build directory
+build/
+
+# Dependency directory
+node_modules
+
+# lol macs
+.DS_Store/
+
+package-lock.json
